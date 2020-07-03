@@ -13,4 +13,5 @@ Examples
 yahtzee_upper([1, 1, 1, 1, 3]) => 4
 yahtzee_upper([1, 1, 1, 3, 3]) => 6
 yahtzee_upper([1, 2, 3, 4, 5]) => 5
-yahtzee_upper([6, 6, 6, 6, 6]) => 30```
+yahtzee_upper([6, 6, 6, 6, 6]) => 30
+```
